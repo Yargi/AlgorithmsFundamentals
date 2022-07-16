@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>bg.softuni</groupId>
+    <artifactId>Algorithms_Fundamentals_with_Java</artifactId>
+    <name>Algorithms_Fundamentals_with_Java</name>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>L08_Dynamic_Programming-Exercise</module>
+        <module>L01_Recursion-and-Backtracking</module>
+        <module>L02_Combinatorial-Problems</module>
+        <module>L03_Recursion_and_Combinatorial_Algorithms-Exercise</module>
+        <module>L04_Searching_Sorting_and_Greedy_Algorithms</module>
+        <module>L05_Graph_Theory_Traversal_and_Shortest_Paths</module>
+        <module>L06_Graph_Theory_Traversal_and_Shortest_Paths-Exercise</module>
+        <module>L07_Introduction_to_Dynamic_Programming</module>
+        <module>L09_Exam_Preparation</module>
+
+    </modules>
+
+</project>
