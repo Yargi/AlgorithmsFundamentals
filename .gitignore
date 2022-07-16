@@ -1,4 +1,15 @@
 #Output directory
 /out/
+/L01_Recursion-and-Backtracking/target
+/L02_Combinatorial-Problems/target
+/L03_Recursion_and_Combinatorial_Algorithms-Exercise/target
+/L04_Searching_Sorting_and_Greedy_Algorithms/target
+/L05_Graph_Theory_Traversal_and_Shortest_Paths/target
+/L06_Graph_Theory_Traversal_and_Shortest_Paths-Exercise/target
+/L07_Introduction_to_Dynamic_Programming/target
+/L08_Dynamic_Programming-Exercise/target
+/L09_Exam_Preparation/target
 #Idea folder
 /.idea/
+
+
