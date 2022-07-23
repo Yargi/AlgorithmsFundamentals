@@ -12,12 +12,7 @@
     <artifactId>L09_Exam_Preparation</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>MonkeyBusiness</module>
-        <module>Molekules</module>
-        <module>ClusterBorder</module>
-        <module>SuperSet</module>
-        <module>PathFinder</module>
-        <module>Climbing</module>
+
     </modules>
 
     <properties>
