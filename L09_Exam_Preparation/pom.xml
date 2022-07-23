@@ -17,6 +17,7 @@
         <module>ClusterBorder</module>
         <module>SuperSet</module>
         <module>PathFinder</module>
+        <module>Climbing</module>
     </modules>
 
     <properties>
