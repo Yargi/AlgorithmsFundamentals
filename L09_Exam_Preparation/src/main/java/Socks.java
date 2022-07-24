@@ -37,7 +37,7 @@ public class Socks {
             for (int i = 0; i < left.length; i++) {
                 for (int j = 0; j < right.length; j++) {
                     if (i == 0 || j == 0 || left[i] != right[j]) {
-                        dp[i][j] = 1;
+                        dp[i][j] = 0;
                     } else {
                         dp[i][j] = 1 + dp[i - 1][j - 1];
                         result = Math.max(result, dp[i][j]);
